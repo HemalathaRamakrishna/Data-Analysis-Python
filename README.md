@@ -1,4 +1,4 @@
-# Unicorn Companies Datase Analysis Using Python
+# Unicorn Companies Dataset Analysis Using Python
 
 The aim of this project is to analyze the growth of unicorn companies based on various factors such as valuation, location, industry, total fundraised, and investors. We will be performing data analysis and visualization on the dataset of unicorn companies to understand the growth patterns of these companies. The insights derived from this analysis will help in understanding the trends in the unicorn companies' ecosystem and how these companies have evolved over the years.
 
