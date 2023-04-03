@@ -67,7 +67,7 @@ plt.legend()
 plt.title('Top 10 Valued Unicorn Companies') 
 plt.show()
 ```
-<img width="357" alt="111" src="https://user-images.githubusercontent.com/122247029/226221192-58200b99-de37-4445-bc63-9e268ca0ad38.PNG">
+<img width="357" alt="111" src="https://user-images.githubusercontent.com/122247029/226221192-58200b99-de37-4445-bc63-9e268ca0ad38.PNG"> <br>
 **2. Which industry has the most unicorn companies and the minor ones?** 
 ```
 import pandas as pd 
@@ -88,7 +88,7 @@ plt.legend()
 plt.title('Top Valued Unicorn Industry based on valuation and year') 
 plt.show()
 ```
-<img width="555" alt="222" src="https://user-images.githubusercontent.com/122247029/226221216-a653e6fa-e078-4db3-97a8-455ed5726669.PNG">
+<img width="555" alt="222" src="https://user-images.githubusercontent.com/122247029/226221216-a653e6fa-e078-4db3-97a8-455ed5726669.PNG"> <br>
 **3. Valuation based on top 10 Country and top 10 City** 
 ```
 import pandas as pd
@@ -121,7 +121,7 @@ ax.yaxis.grid(color='lightgray', linestyle='dashed')
 plt.tight_layout()
 plt.show()
 ```
-<img width="610" alt="333" src="https://user-images.githubusercontent.com/122247029/226221233-e073415c-4581-4b3b-94b8-b254d08f639b.PNG">
+<img width="610" alt="333" src="https://user-images.githubusercontent.com/122247029/226221233-e073415c-4581-4b3b-94b8-b254d08f639b.PNG"> <br>
 **4. Top five cities with the highest number of Unicorn Companies** 
 ```
 import pandas as pd
@@ -137,4 +137,4 @@ df.City.value_counts().head(5).plot(kind='pie', textprops={'color':'darkblue'}, 
 plt.title('Top Five Cities with highest number of Unicorn Companies', fontweight='bold')
 plt.legend()
 ```
-<img width="367" alt="444" src="https://user-images.githubusercontent.com/122247029/226221259-33c7b3a3-873b-4c4c-b47a-4fb3fabca8e8.PNG">
+<img width="367" alt="444" src="https://user-images.githubusercontent.com/122247029/226221259-33c7b3a3-873b-4c4c-b47a-4fb3fabca8e8.PNG"> <br>
