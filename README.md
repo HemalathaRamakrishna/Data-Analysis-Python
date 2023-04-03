@@ -49,7 +49,6 @@ print(df)
 ## Data Analysis and Visualizations
 **1. What are the top 10 most valued unicorn companies?** 
 ```
-**Code**
 import pandas as pd 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -71,7 +70,6 @@ plt.show()
 <img width="357" alt="111" src="https://user-images.githubusercontent.com/122247029/226221192-58200b99-de37-4445-bc63-9e268ca0ad38.PNG">
 **2. Which industry has the most unicorn companies and the minor ones?** 
 ```
-**Code**
 import pandas as pd 
 import numpy as np
 import matplotlib.pyplot as plt 
@@ -93,7 +91,6 @@ plt.show()
 <img width="555" alt="222" src="https://user-images.githubusercontent.com/122247029/226221216-a653e6fa-e078-4db3-97a8-455ed5726669.PNG">
 **3. Valuation based on top 10 Country and top 10 City** 
 ```
-**Code**
 import pandas as pd
 import matplotlib.pyplot as plt
 df = pd.read_csv('Unicorn_Companies.csv') 
@@ -127,7 +124,6 @@ plt.show()
 <img width="610" alt="333" src="https://user-images.githubusercontent.com/122247029/226221233-e073415c-4581-4b3b-94b8-b254d08f639b.PNG">
 **4. Top five cities with the highest number of Unicorn Companies** 
 ```
-**Code**
 import pandas as pd
 import matplotlib.pyplot as plt
 df = pd.read_csv('Unicorn_Companies.csv') 
